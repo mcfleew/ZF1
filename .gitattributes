@@ -1,0 +1,9 @@
+*.php txt eol=lf
+*.phtml txt eol=lf
+*.html txt eol=lf
+*.css txt eol=lf
+*.js txt eol=lf
+*.json txt eol=lf
+*.md txt eol=lf
+*.less txt eol=lf
+*.scss txt eol=lf
